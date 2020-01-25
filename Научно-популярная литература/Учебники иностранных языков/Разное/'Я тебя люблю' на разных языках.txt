@@ -1,0 +1,945 @@
+                "Я тебя люблю" на разных языках
+
+
+Afrikaans		: Ek is lief vir jou
+			: Ek het jou lief
+Albanian		: Te dua
+			: Te dashuroj
+			: Ti je zemra ime
+Alsacien (Elsass)	: Ich hoan dich gear
+Amharic (Aethio.)	: Afekrishalehou
+			: Afekrischalehou
+Amharic (Ethiopian)	: Ewedishalehu (male/female to female)
+			: Ewedihalehu  (male/female to male)
+American Sign Language	:              __
+			:  __         (  )
+			: (  )        |__|
+			: |__| __  __ |  |
+			: |  |(  )(  )|__|   __
+			: |__||__||__||  |  /  )
+			: |   (__)(__)   | /  /
+			: |              |/  /
+			: |              /  /
+			: \                /
+Apache			: Sheth she~n zho~n (nasalized vowels like French,
+					     '~n' as in French 'salon')
+Arabic (formal)		: Ohiboke   (male to female)
+			: Ohiboki   (male to female)
+			: Ohibokoma (male or female to two males
+				     or two females)
+			: Nohiboke  (more than one male or females
+				     to female)
+			: Nohiboka   (male to male or female to male)
+			: Nohibokoma (male to male or female to two
+					males or two females)
+			: Nohibokom  (male to male or female to more
+				      than two males)
+			: Nohibokon  (male to male or female to more
+				      than two females)
+Arabic (proper)		: Ooheboki  (male to female)
+			: Ooheboka  (female to male)
+Arabic			: Ana behibak  (female to male)
+			: Ana behibek  (male to female)
+			: Ahebich  (male to female)
+			: Ahebik   (female to male)
+			: Ana ahebik
+			: Ib'n hebbak
+			: Ana ba-heb-bak
+			: Bahibak  (female to male)
+			: Bahibik  (male to female)
+			: Benhibak (more than one male or female to male)
+			: Benhibik  (male to male or female to female)
+			: Benhibkom (male to male or female to more
+				     than one male)
+			: Nhebuk  (spoken to someone of importance)
+Arabic (Umggs.)		: Ana hebbek
+Armenian		: Yes kez si'rumem
+Ashanti/Akan/Twi	: Me dor wo
+Assamese		: Moi tomak bhal pau
+
+Bangladeschi		: Ami tomake walobashi
+Basque			: Maite zaitut
+			: Nere maitea ("My love/My darling")
+Bassa			: Mengweswe
+Batak			: Holong rohangku di ho
+Bemba			: Ndikufuna
+Bengali			: Aami tomaake bhaalo baashi
+			: Ami tomay bhalobashi
+			: Ami tomake bahlobashi
+Berber			: Lakh tirikh
+Betazed			: Imzadi
+Bicol			: Namumutan ta ka
+Bolivian Quechua	: Qanta munani
+Bosnian			: Volim te
+Braille			: :..:| ..:| |..-.. .::":.., :.:;
+Brazilian/Portuguese	: Eu te amo
+	 /Galician	: Querote
+			: Amo-te (pronounced "Amu'-tee")
+Bulgarian		: Obicham te
+			: As te obeicham
+			: As te obicham
+			: Obozhavam te ("I love you very much")
+Burmese			: Chit pa de
+
+Cajun			: Mi aime jou
+Cambodian		: Kh_nhaum soro_lahn nhee_ah
+			: Bon sro lanh oon
+Canadian French		: Ch't'aime
+			: Ch'trip su' toe'  ("I'm crazy for you")
+			: J'capote su' toe' ("I'm turned upside-down for you")
+			: Je t'aime   ("I like you")
+			: Je t'adore  ("I love you")  (not really used in
+			    a romantic or passionated way, it is mostly used
+			    in family context, or for a pet, or a meal etc.)
+Catalan			: T'estimo  (Catalonian)
+			: T'estim   (Mallorcan)
+			: T'estime  (Valencian)
+			: T'estim molt ("I love you a lot")
+Cebuano			: Gihigugma ko ikaw
+Central Yup'ik		: Assiramken ('r' is a voiced uvular fricative,
+				      kind of like a German 'ch', except
+				      voiced and pronounced a little
+				      farther back in the mouth, nearer
+				      to the throat)
+Chamoru (or Chamorro)	: Hu guaiya hao
+Cherokee		: Aya gvgeyu'i nihi
+Cheyenne		: Ne mohotatse
+Chichewa		: Ndimakukonda
+Chickasaw		: Chiholloli (first 'i' nasalized)
+Chinese			: Gwa ai li	(Amoy)
+			: Ngo oi nei	(Cantonese)
+			: Wo oi nei	( " )
+			: Ngai oi gnee	(Hakka)
+			: Ngai on ni	( " )
+			: Ai oi ngee	( " )
+			: Wa ai lu	(Hokkien)
+			: Wo ai ni	(Mandarin/Putonghua)
+			: Ngo ai nong	(Wu)
+Corsican		: Ti tengu cara (male to female)
+			: Ti tengu caru (female to male)
+Creol			: Mi aime jou
+Croatian (familiar)	: Ja te volim	(used in proper speech)
+			: Volim te	(used in common speech)
+Croatian (formal)	: Ja vas volim	(used in proper speech)
+			: Volim vas	(used in common speech)
+			: Ljubim te  (in todays useage, "I kiss you",
+				      'lj' pronounced like 'll' in
+				      Spanish, one sound, 'ly'ish)
+Croatian (old)		: Ljubim te  (may still be found in poetry)
+Czech			: Miluji te  (a downwards pointing arrowhead
+				      on top of the 'e' in te, which is
+				      pronounced 'ye')
+			: Miluju te! (colloquial form)
+			: Ma'm te (velmi) ra'd (male speaker, "I like
+						you (very much)", often
+						used and prefered)
+			: Ma'm te (velmi) ra'da (female speaker)
+
+Danish			: Jeg elsker dig
+Dhivehi			: Varrah loabi vey
+			: Aharen, kalaa-dheke loabi-vameve  (I love you)
+			: Aharen, kalaa-dheke varahh loabi-vameve
+						(I love you very much)
+Dusun			: Siuhang oku dia
+Dutch			: Ik hou van je
+			: Ik hou van jou
+			: Ik bemin je	(old fashioned)
+			: Ik bemin jou	    ( " )
+			: Ik heb je lief    ( " )
+			: Ik ben verliefd op je ("I am in love with you")
+			: Ik ben verliefd op jou	 ( " )
+			: Ik houd erg veel van jou ("I love you very
+			: Ik houd erg veel van je       much")
+			: Ik vind je leuk    ("I like you")
+			: Ik vind je aardig       ( " )
+			: Ik vind je heel erg leuk  ("I like you very
+			: Ik vind je heel aardig         much")
+			: Ik zie je graag
+			: Ik mag jou wel  ("I like you")
+			: Ik mag jou heel graag ("I like you very much")
+			  (the last two are more superficial, thus more
+			   suitable for male to male)
+
+Ecuador Quechua		: Canda munani
+English			: I love you
+			: I adore you
+			: I love thee   (used only in Christian context)
+Eritrean / Tigrinya	: Afkireki  (as said to a female)
+			: Afkireka  (as said to a male)
+Esperanto		: Mi amas vin
+Estonian		: Mina armastan sind
+			: Ma armastan sind
+Ethiopian		: Afgreki'
+
+Farsi (old)		: Tora dust mi daram
+Farsi			: Tora dost daram  ("I love you")
+			: Asheghetam
+			: Doostat daram    ("I'm in love with you")
+			: Man asheghetam   ("I'm in love with you")
+Fijian			: Au lomani iko  (I love you)
+			: Au lomani iko vakalevu  (I love you very much!)
+			: Au vinakati iko  (I want you)
+Filipino		: Iniibig kita
+			: Mahal kita
+Finnish (formal)	: Mina" rakastan sinua
+			: Rakastan sinua
+			: Mina" pida"n sinusta ("I like you")
+Finnish			: (Ma") rakastan sua
+			: (Ma") tykka"a"n susta  ("I like you")
+French			: Je t'aime   ("I love you")
+			: Je t'adore  ("I love you", stronger meaning
+					between lovers)
+			: J' t'aime bien ("I like you", meant for friends
+					  and family, not for lovers)
+French (formal)		: Je vous aime
+
+Gaelic			: Ta gra agam ort
+			: Moo graugh hoo
+Galician/Portuguese	: Eu te amo
+	 /Brazilian	: Querote
+Georgian		: Miqvarhar (familiar)
+			: Me shen miqvarhar [MEh SHEN MI-(q pronounced
+					     between k and g)-VURR-HURR]
+			: Miqvarharth (more respectful)
+			: Me thkven miqvarharth [MEh (t in breathing out)-
+				      KVEN MI-(k/g)-VURR-HURR-(the same)]
+German (formal)		: Ich liebe Sie  (rarely used)
+German			: Ich liebe dich
+			: Ich hab' dich lieb
+			: Ich hab dich lieb (not so classic and
+						conservative)
+German dialects:
+ Bavarian (Bayrisch)	: I moag di gern
+    (Bavaria/Bayern)	: I mog di  (right answer: "I di a")
+			: I lieb di
+ Berlin dialect		: Ick liebe dir  (Old, very old)
+    (Berlinerisch)	: Ick liebe Dich
+ Berner-Deutsch		: Ig liebe di
+ Bochumer		: Ich lieb Dich!
+ Franconian (Fra"nkisch): Du gfa"llsd mer fai
+    (Franconia/Franken) : Bisd scho mai gouds freggerla (already in a
+							 relationship)
+			: Mid dier ma"cherd ich a amol (sexually touched,
+				    ment as a compliment, not litterally)
+			  (the above 3 entries really mean "I like you",
+			   a Franke would never say "I love you")
+ Friesian (Friesisch)	: Ik hou fan dei (sp?)
+			: Ik hald fan dei
+ Hessian (Hessisch)	: Isch habb disch libb
+ Ostfriesisch		: Ick heb di leev
+ Saarla"ndisch		: Isch hann disch lieb
+ Saxon (Sa"chsisch)	: Isch liebdsch
+ Swabian (Schwa"bisch)	: I mog di fei sauma"ssich (Literally "I like
+						    you like a pig.")
+			: I mog di ganz arg (More formal, literally
+					     "I like you very much!")
+ Swiss German		: Ch'ha di ga"rn
+      (Schweizerdeutsch)
+ Vorarlberg dialect	: I stand total uf di
+      (Vorarlbergerisch)
+Gilbertese		: Itangiriko (g is pronounced like "ng" in "singing")
+Greek			: Se agapo  (spoken "s'agapo", g is lower case gamma)
+			: Eime eroteumenos mazi sou  ("I'm in love with)
+			: Eime eroteumenos me 'sena  (you", male to female)
+			: Eime eroteumeni mazi sou  ("I'm in love with)
+			: Eime eroteumeni me 'sena  (you", female to male)
+			: Se latrevo	("I adore you")
+			: Se thelo  ("I want you", denotes sexual desire)
+Greek (Arhea/Ancient)	: Philo se
+Greenlandic		: Asavakit
+Gronings		: Ik hol van die
+Guarani'		: Rohiyu (ro-hai'-hyu)
+Gujrati			: Hoon tane pyar karoochhoon.
+			: Hoon tuney chaoon chhoon ('n' is nasal, not
+							pronounced)
+
+Hausa			: Ina sonka	(female to male)
+			: Ina sonki	(male to female)
+Hawaiian		: Aloha wau ia 'oe
+			: Aloha wau ia 'oe nui loa ("I love you very much")
+			  (The ' mark is the "glottal stop".)
+Hebrew			: Anee ohev otakh     (male to female)
+			: Anee ohevet otkha   (female to male)
+			: Anee ohev otkha     (male to male)
+			: Anee ohevet otakh   (female to female)
+					      ('kh' pronounced like
+					       Spanish 'j', Dutch 'g',
+					       or similiar to French 'r')
+Hindi			: Mai tumase pyar karata hun  (male to female)
+			: Mai tumase pyar karati hun  (female to male)
+			: Mai tumse pyar karta hoon
+			: Mai tumse peyar karta hnu
+			: Mai tumse pyar karta hoo
+			: Mai tujhe pyaar kartha hoo
+			: Mae tumko peyar kia
+			: Main tumse pyar karta hoon
+			: Main tumse prem karta hoon
+			: Main tuze pyar karta hoon ('n' is nasal, not
+							pronounced)
+Hopi			: Nu' umi unangwa'ta
+Hungarian		: Szeretlek
+			: Te'gedet szeretlek   ("It's you I love and
+						 no one else")
+			: Szeretlek te'ged   ("It's you I love, you know,
+						you", a reinforcement)
+			  (The above two entries are never heard in
+			   a normal context.)
+
+Ibaloi			: Pip-piyan tana
+			: Pipiyan ta han shili ("I like/love you
+						 very much")
+Ibo (Igbo)		: A hurum gi nanya
+Icelandic		: Eg elska thig (pronounced 'yeg l-ska thig')
+Ilocano			: Ay ayating ka
+Indonesian		: Saya cinta padamu	('Saya', commonly used)
+			: Saya cinta kamu		( " )
+			: Saya kasih saudari		( " )
+			: Saja kasih saudari		( " )
+			: Aku tjinta padamu	('Aku', not often used)
+			: Aku cinta padamu		( " )
+			: Aku cinta kamu		( " )
+Interglossa		: Mi esthe philo tu
+Italian			: Ti amo     (relationship/lover/spouse)
+			: Ti voglio bene  (between friends)
+			: Ti voglio (strong sexual meaning, "I want you",
+					refering to other person's body)
+Irish			: Taim i' ngra leat
+Irish/Gaelic		: t'a gr'a agam dhuit
+
+Japanese		: Kimi o aishiteiru (mostly male to female but
+					     can be used female to male)
+			: Aishiteiru (both male and female use this)
+			: Chuu shiteyo (literally "Please give me a kiss"
+					mostly female to male)
+			: Ora, omee no koto ga suki da (very informal,
+							male to female)
+			: Ore wa omae ga suki da (informal, male to
+						  female)
+			: Sukiyo ("I like you.", informal,female to male)
+			: Watashi wa anata ga suki desu
+				(literally "I like YOU.", female to male)
+			: Watashi wa anata o hontooni aishite imasu
+				    (formal meaning "I REALLY love you.",
+				     female to male)
+			: A-i-shi-te ma-su(both male and female use this)
+			: Watakushi-wa anata-o aishimasu
+				 (very formal meaning "I will love you.",
+				  future tense, female to male)
+			: Suki desu (used at the first time, like for a
+				 start, when you are not yet real lovers,
+				 both male and female use this)
+Javanese		: Kulo tresno
+
+Kankana			: Laylaydek sik a
+Kannada			: Naanu ninnanu preethisuthene
+			: Naanu ninnanu mohisuthene
+Kapampangang		: Kaluguran daka
+       (or Pampangang)
+Kekchi			: Nactinra
+Kikongo			: Mono ke zola nge (mono ke' zola nge')
+Kiswahili		: Nakupenda
+			: Nakupenda wewe
+			: Nakupenda malaika ("I love you, (my) angel")
+Klingon			: bangwI' SoH	("You are my beloved")
+			: qamuSHa'	("I love you")
+			: qamuSHa'qu'	("I love you very much")
+			: qaparHa'	("I like you")
+			: qaparHa'qu'	("I like you very much!")
+			  (words are often unnecessary as the thought
+			   is most often conveyed nonverbally with
+			   special growlings)
+Korean			: (Tangsinul) Saranghae ("I love you")
+			: (Tangsinul) Saranghaeyo (with a little respect)
+			: (Tangsinul) Saranghamnida	  ( " )
+			: Nanun dangsineul saranghamnida  ( " )
+			: Tangsinul
+			: Tangsinul sarang ha yo ("I love you, dear")
+			: Dangsinul saranghee yo
+			: Saranghee
+			: Nanun dangsineul joahamnida ("I like you")
+			: Nanun dangsineul mucheok joahamnida ("I like
+							   very much")
+			: Nanun dangsineul mucheok saranghamnida ("I love
+							  you very much")
+			: Nanun geudae joa ("I like him" or "I like her")
+			: Nanun geudae saranghamnida ("I love him" or
+							"I love her")
+			: Gdaereul hjanghan naemaeum alji ("You know how
+						    much I love him/her")
+			: Nanun neoreul saranghanda
+			: Joahaeyo ("I like you")
+			: Saranghaeyo	  (more formal)
+			: Saranghapanida  (more respectful)
+			: Norul sarang hae (male to female in casual
+						relationship)
+			: Tangshini choayo ("I like you, in a romantic
+								way")
+Kpele			: I walikana
+Kurdish			: Ez te hezdikhem
+
+Lao			: Khoi hak jao
+			: Khoi mak jao lai ("I like you very much")
+			: Khoi hak jao lai ("I love you very much")
+			: Khoi mak jao   (This means "I prefer you",
+					  but is used for "I love you".)
+Latin			: Te amo
+			: Vos amo
+Latin  (old)		: (Ego) Amo te   ('Ego', for emphasis)
+Latvian			: Es tevi milu (pronounced 'es tevy meelu')
+				       ('i in 'milu' has a line over it,
+					a 'long i')
+			: Es milu tevi (less common)
+Lebanese		: Bahibak
+Lingala			: Nalingi yo
+Lisbon lingo		: Gramo-te bue', chavalinha!
+Lithuanian		: Tave myliu (Ta-ve mee-lyu)
+			: Ash mir lutavah
+Lojban			: Mi do prami
+Luo			: Aheri
+Luxembourgish		: Ech hun dech ga"r
+
+Maa			: Ilolenge
+Macedonian		: Te sakam  (a little stronger than "I like you")
+			: Te ljubam  ("I really love you")
+			: Jas te sakam ('j' sounds like 'y' in May)
+			: Pozdrav ("Greetings")
+Madrid lingo		: Me molas, Tronca!
+Maiese			: Wa wa
+Malay/Indonesian	: Saya cintakan kamu (grammatically correct)
+			: Saya cinta akan kamu(expanded version of above)
+			: Saya sayangkan kamu (grammatically correct)
+			: Saya sayang akan kamu (expanded version)
+			: Aku cinta pada mu (most direct translation)
+			: Saya cintakan awak
+			: Aku cinta pada kau
+			: Saya cinta pada mu (best, most commonly used)
+			: Saya sayangkan engkau ('engkau' often shortened
+			  to 'kau', 'engkau' is informal form and should
+			  only be used if you know the person _really_
+			  well)
+			: Saya sayang pada mu
+			: Aku sayangkan engkau
+			: Saya sayang pada mu
+			: Aku menyintai mu
+			: Aku menyayangi mu
+			: Aku kasih pada mu
+			: Aku jatuh cinta pada mu
+Malayalam		: Ngan ninne snaehikkunnu
+			: Njyaan ninne' preetikyunnu
+			: Njyaan ninne' mohikyunnu
+Maltese			: Jien inhobbok
+Marathi			: Mi tuzya var prem karato
+			: Me tujhashi prem karto (male to female)
+			: Me tujhashi prem karte (female to male)
+Marshallese		: Yokwe yuk (sort of multi-purpose, like Aloha,
+				    literally "Love to you, my friend")
+Mikmaq			: Kesalul
+Mohawk			: Konoronhkwa
+Mokilese		: Ngoah mweoku kaua
+Moroccan		: Kanbhik  (both mean the same, but spoken)
+			: Kanhebek (in different cities)
+Morse Code		: ..  ._.. ___ ..._ .  _.__ ___ .._
+			: ___.. ___.. (Literally "88", a Morse Code
+			 shorthand meaning "Love, hugs &amp; kisses to you.")
+			: __... ...__ (Literally "73", a Morse Code
+				       shorthand for non romantic friends
+				       meaning "Best regards.")
+
+Nahuatl			: Ni mitz tla-zo-tla (the 'a's are "schwa"s)
+Navaho			: Ayor anosh'ni
+Ndebele			: Niyakutanda
+Norwegian		: Jeg elsker deg  (Bokmaal)
+			: Eg elskar deg   (Nynorsk)
+Nyanja			: Ninatemba
+
+Op			: Op lopveop yopuop
+Oriya			: Mun tumaku bhala pae ('n' is nasal and
+						not pronounced)
+Osetian			: Aez dae warzyn
+
+Pampangang		: Kaluguran daka
+       (or Kapampangang)
+Papiamento		: Mi ta stima'bo
+Pig Latin		: Ie ovele ouye
+Polish			: Kocham cie
+			: Kocham ciebie
+			: Ja cie kocham (slang, not commonly used)
+Portuguese		: Eu amo-te (pronounced "Eu amu'-tee")
+			: Estou apaixonado por ti (male to female,
+			      "I'm in love with you", pronounced "Esto^
+				 hapa'isho^na'duu puur ti'")
+			: Estou apaixonada por ti (female to male,
+			      "I'm in love with you", pronounced "Esto^
+				 hapa'isho^na'daa puur ti'")
+			: Eu adoro-te ("I adore you.")
+			: Tu e's o meu amor ("You are my love.")
+			: Eu gosto de ti ("I like you.")
+			: Quero-te ("I want you", understood as romantic
+				    feelings but may have sexual tones)
+			: Eu desejo-te ("I desire you", may have sexual
+							tones)
+			: Eu preciso de ti ("I need you.")
+			: Eu quero fazer amor contigo ("I want to make
+							love with you.")
+Portuguese lingo	: Gramo-te `a brava! ("I love you very much",
+					  literally "I love you wildly")
+Pulaar			: Mbe de yid ma (mbe: d: yidh ma)
+					(Pronounced as two words,
+					 "Mbe deyidma".  'b' and second
+					 'd' have bars through the stems
+					 indicating affrication, the ':'
+					 indicate minute pauses)
+Punjabi			: Main tainu pyar karna
+			: Mai taunu pyar karda
+			: Mein nu terey na^l piyaar ay (pronounced:
+			  "meinu therei naal piya'rei",  th  as in bath)
+			  ' = stressed syllable
+Pushto			: Mung jane' (pronounced: "puxto: mu'ng jane'")
+			: Pa ta mayan yem
+
+Quenya			: Tye-mela'ne
+
+Raetoromanisch		: Te amo
+Romanian		: Te iubesc
+			: Te ador    (stronger)
+Rotuman			: Gou 'oaf se 'a"e
+			  (The ' mark is the "glottal stop" as in Hawaiian.
+			  The G is actually the "ng" sound, as in "singing".)
+Russian			: Ya vas lyublyu	(old fashioned)
+			: Ya tyebya lyublyu	    (best)
+			: Ya lyublyu vas	(old fashioned)
+			: Ya lyublyu tyebya
+
+Saami			: Mun ra'hkistan du
+Samoan			: Ou te alofa outou
+			: Ou te alofa ia te oe
+			: Talo'fa ia te oe ("Hello, from me to you")
+Sanskrit		: Tvayi snihyaami
+			: Mama tvayi aasaktirasti (I have love/longing in you)
+Scot-Gaelic		: Tha gradh agam ort
+Serbian (formal)	: Ja vas volim	(used in proper speech)
+			: Volim vas	(used in common speech)
+			: Ljubim te  (in todays useage, "I kiss you",
+					'lj' pronounced like 'll' in
+					Spanish, one sound, 'ly'ish)
+Serbian (familiar)	: Ja te volim	(used in proper speech)
+			: Volim te	(used in common speech)
+Serbian (old)		: Ljubim te  (may still be found in poetry)
+Serbocroatian		: Volim te
+			: Ljubim te
+			: Ja te volim ('j' sounds like 'y' in May)
+Sesotho(Southern Sotho) : Ke a mo rata
+Shona			: Ndinokuda
+Sinhala			: Mama oya'ta a'darei
+Sioux			: Techihhila
+Slovak			: Lubim ta  (L pronounced similarly to 'll' in Spanish)
+			: Mam ta rad (male to female)
+			: Mam ta rada (female to male)
+			: Milujem ta	(all 't's spoken softly like 'ty')
+Slovene			: Ljubim te
+Solresol		: do-re mi-la-si do-mi
+Somali			: Waan ku Jecelahay
+Spanish			: Te amo
+			: Te quiero
+			: Te adoro    ("I adore you")
+			: Te deseo    ("I desire you")
+			: Me antojis  ("I crave you")
+Srilankan		: Mama oyata arderyi
+Swahili			: Nakupenda
+			: Naku penda (followed by the person's name)
+			: Ninikupenda
+			: Dholu'o
+Swedish			: Jag a"lskar dig ('dig' pronounced like 'day')
+Syrian/Lebanese		: Bhebbek (male to female)
+			: Bhebbak (female to male)
+
+Tagalog			: Mahal kita
+Tahitian		: Ua here au ia oe
+			: Ua here vau ia oe
+Taiwanese		: Wa I Lee
+Tamil			: Naan unnai kadalikiren
+			: Nan unnai kathalikaren
+			: Ni yaanai kaadli karen ("You love me")
+			: N^an unnaki kathalikkinren ("I love you")
+			: Nam vi'rmberem
+Telugu			: Ninnu premistunnanu
+			: Neenu ninnu pra'mistu'nnanu
+			: Nenu ninnu premistunnanu
+Thai (formal)		: Phom rak khun   (male to female)
+			: Phom ruk koon       ( " )
+			: Ch'an rak khun  (female to male)
+			: Chun ruk koon       ( " )
+Thai			: Khao raak thoe  (affectionate, sweet, loving)
+Timerio			: 1-80-17
+Tongan			: 'Ofa 'atu	(I love you)
+			: 'Oku ou fie manako'i koe  (I want to marry you)
+			  (The ' mark is the "glottal stop" as in Hawaiian.)
+Tswana			: Dumela
+Tunisian		: Ha eh bak
+Turkish (formal)	: Sizi seviyorum
+Turkish			: Seni seviyorum
+			: Seni begeniyorum  ("I adore you")
+					  (g has a bar on it)
+			: Senden ho$laniyorum (Sound of '$' is like 'sh'
+				 in English.  Must be a point under 'S'.
+				 The 'i' must be without a point.)
+Twi			: Me dowapaa
+
+Ukrainian		: Ya tebe kokhayu
+			: Ja tebe kokhaju (real true love)
+			: Ja vas kokhaju
+			: Ja pokokhav tebe
+			: Ja pokokhav vas
+Urdu			: Main tumse muhabbat karta hoon
+			: Mujhe tumse mohabbat hai
+			: Mujge tumae mahabbat hai
+			: Kam prem kartahai
+			: Muje se mu habbat hai
+			: Mujhe tum se piyaar hai (pronounced:
+			  "mujhei' Oo'm se' piya'r ha'e")
+			: Mujhe tum se muhabbat hai (pronounced:
+			  "mujhe'i Oo'm se' mohub:u'th ha'e",  th  as
+			  in bath)
+			  ' = stressed syllable, Oo' =  o  like in bold
+
+Vai			: Na lia
+Vdrmldndska		: Du dr gvrgo te mdg
+Vietnamese		: Toi yeu em
+			: Anh ye^u em  (male to female, or older
+					to younger, romantic)
+			: Em ye^u anh  (female to male, or younger
+					to older, romantic)
+			: Con thu+o+ng ba (kid to father)
+			: Ba thu+o+ng con (father to kid)
+			: Con thu+o+ng ma' (kid to mother)
+			: Ma' thu+o+ng con (mother to kid)
+			: Cha'u thu+o+ng o^ng (grandkid to grandpa)
+			: O^ng thu+o+ng cha'u (grandpa to grandkid)
+			: Ba` thu+o+ng cha'u (grandkid to grandma)
+			: Cha'u thu+o+ng ba` (grandma to grandkid)
+			: Anh thu+o+ng em (big brother to younger
+					   sister or brother)
+			: Chi. thu+o+ng em (big sister to younger
+					    sister or brother)
+			: Em thu+o+ng anh (younger sister/brother
+					   to big brother)
+			: Em thu+o+ng chi. (younger sister/brother
+					    to big sister)
+Volapu"k		: La"fob oli
+Vulcan			: Wani ra yana ro aisha
+
+Walloon			: Rwy'n dy garu di
+			: Yr wyf i yn dy garu di (chwi)
+Wolof			: Da ma la nope
+			: Da ma la nop (da ma'lanop)
+
+Yiddish			: Ikh hob dikh lib
+			: Ich libe dich
+			: Ich han dich lib
+			: Kh'hob dikh lib
+			: Kh'ob dikh holt
+			: Ikh bin in dir farlibt
+Yoruba			: Mo Feran e
+Yucatec Maya		: 'in k'aatech  (the love of lovers)
+			: In yakumech
+			: 'in yabitmech  (the love of family, which
+					  lovers can also feel; it
+					  indicates more a desire to
+					  spoil and protect the other
+					  person)
+Yugoslavian		: Ja te volim
+
+Zazi 			: Ezhele hezdege (sp?)
+Zulu 			: Mena tanda wena
+			: Ngiyakuthanda!
+Zuni 			: Tom ho' ichema
+
+
+Explanation of Accents
+----------------------
+a'		-&gt; 'a' with the acute accent (') over it, accent aigu
+		   (ASCII code 160)
+a"		-&gt; 'a' with two dots (Umlaut)   (ASCII code 132)
+a^		-&gt; elongated vowel (e.g. 2 a's)
+a~		-&gt; 'a' with a tilde(~) over it
+e^		-&gt; 'e' with a carot(^) over it
+e'		-&gt; 'e' with the acute accent (') over it (ASCII code 130)
+n~		-&gt; 'n' with a tilde(~) over it
+o~		-&gt; 'o' with a tilde(~) over it
+
+
+Explanation of Languages
+------------------------
+Afrikaans	-&gt; spoken by people of Dutch heritage in South Africa
+Alentejano	-&gt; An accented form of Portuguese spoken in the Alentejo
+		   region of Portugal (the part of the country south of
+		   the river Tagus).
+Alsacien	-&gt; French/German dialect (live in France, but speak
+		   like Germans)
+Amharic		-&gt; Official language spoken in Ethiopia.  Just one of
+		   over 80 languages spoken there.
+Apache		-&gt; North American Indian Nation rangeing from the plains
+		   states to the eastern Rocky Mountains and from the
+		   Canadian to Mexican borders
+Arabic		-&gt; language spoken in the Arab countries including
+		   but not limited to Bahrain, Egypt, Iraq, Jordan,
+		   Kuwait, Libya, Morocco, Saudi Arabia, Sudan, and
+		   the region of Palestine.
+Ashanti/Akan/Twi-&gt; Ashanti is the most popular and predominate of
+		   many dialects spoken in Ghana.  The Ghanan language
+		   is generally refered to as either Akan or Twi.
+Assamese	-&gt; language spoken in the state of Assam, India
+Bassa		-&gt; language spoken in Africa
+Batak		-&gt; language spoken in the northern Sumatra province of
+		   Indonesia
+Bavarian	-&gt; language spoken in the state of Bavaria, southern
+		   Germany (actually a German dialect)
+Bemba		-&gt; language spoken in Africa
+Bengali		-&gt; language spoken in the state of West Bengal, India,
+		   as well as almost all people of Bangladesh
+Betazed		-&gt; Spoken in Star Trek on planet Betazed
+Bicol		-&gt; dialect spoken in the Philippines
+Braille		-&gt; The alphabet represented by patterns of raised dots.
+		   It is 'read' by touch.
+Basque		-&gt; language spoken in the Basque region of Spain
+Cajun		-&gt; French dialect spoken by people who migrated from
+		   Acadia, Canada, to the Louisiana, USA, area.
+		   Acadia is in an Atlantic province.
+Catalan		-&gt; language spoken in a region in the north-east of Spain
+		   named Catalonia.  It is also spoken in the Balearic
+		   Islands, in Andorra and in some small villages of
+		   Sardinia and the south of France.
+Cebuano		-&gt; language spoken in Philippines near the town of Cebu
+Central Yup'ik	-&gt; language spoken by the indigenous Eskimo people of
+		   southwestern Alaska
+Cherokee	-&gt; North American Indian tribe
+Cheyenne	-&gt; North American Indian tribe, part of the Apache
+		   Nation
+Chichewa	-&gt; language spoken in Malawi, Central Africa
+Chickasaw	-&gt; North American Indian tribe (southeastern Oklahoma)
+Chinese
+ Amoy		-&gt; language spoken on Taiwan, an island off Fukien
+		   Province in southeast China, and Singapore
+ Cantonese	-&gt; language spoken in the region around Guangzhou
+		   including Hong Kong and also in Malaysia
+ Mandarin/	-&gt; The official language of China
+  Putonghua	   litterally 'common language'
+		   also spoken by native Chinese in Singapore and
+		   Malaysia
+ Wu		-&gt; language spoken in Jiangsu Province
+Creol		-&gt; French dialect spoken by people from Haiti.  It is
+		   basicly French with a little English and German.
+Dhivehi		-&gt; language spoken in the Maldives
+		   and in the Minicoy Island of India
+Dusun		-&gt; language spoken by the Dusun tribe, one of the largest
+		   in North Borneo
+Dutch		-&gt; language spoken in the Netherlands and the provinces
+		   of East- and West-Flanders, Antwerp, Limburg, and
+		   Flemmish-Brabant, Belgium
+Esperanto	-&gt; The International Language. An 'artificial' language.
+Farsi		-&gt; language spoken in Iran.  Dialects of Farsi spoken in
+		   Pakistan and Afghanestan.  Farsi is sometimes called
+		   Persian.
+Fijian		-&gt; spoken by native Fijian people in Fiji
+Franconian	-&gt; German dialect spoken by the citizens of Franken or
+		   Franconia which is part of Bavaria in the area
+		   around Nuremberg
+French		-&gt; language spoken in France, Canada, and the provinces
+		   of Luxembourg, Namur, Liege, Hainault, and Brabant-
+		   Walloon(Brabant of the Walloons), Belgium
+Friesian	-&gt; language spoken in northern Holland, northern
+		   Germany, and in some parts of Denmark
+		   (mainly west coast)
+Gaelic		-&gt; language spoken in Ireland
+Galician	-&gt; Galicians live in the four Spanish provinces located
+		   along the northwest coast of the Iberian Peninsula,
+		   but their language zone shades into neighboring areas
+		   of Spain and Portugal as well. The four provinces are
+		   A Corun~a, Lugo, Ourense, and Pontevedra.
+Georgian	-&gt; language spoken in Georgia
+Gilbertese	-&gt; properly Kiribati, spoken by the Micronesians of the
+		   Republic of Kiribati in the Pacific on the equator
+Gronings	-&gt; Dutch dialect
+Guarani'	-&gt; one of the two official languages in Paraguay
+Gujrati		-&gt; language spoken in the state of Gujrat, India, and
+		   Pakistan
+Hakka		-&gt; Chinese dialect from Manchuria
+Hausa		-&gt; language spoken in Nigeria
+Hebrew		-&gt; language spoken in Israel and by Jewish people
+Hindi		-&gt; language spoken in the northern states of India
+Hopi		-&gt; North American Indian tribe (southwest, Arizona)
+Ibaloi		-&gt; dialect spoken in the Philippines by the Igorot
+		   natives, specifically the Ibaloi's
+Ilocano		-&gt; dialect spoken in the Philippines
+Interglossa	-&gt; An 'artificial' language invented by Lancelot Hogben,
+		   circa 1940.
+Kankana		-&gt; dialect spoken in the Philippines by the Igorot
+		   natives, specifically the Kankana-ey's
+Kannada		-&gt; language spoken in the state of Karnataka,
+		   southern India
+Kapampangang	-&gt; Filipino dialect
+  (or Pampangang)
+Kekchi		-&gt; language spoken by 380,000 Mayans in Guatemala,
+		   Belize, and El Salvador
+Kikongo		-&gt; language spoken in Zaire, Africa
+Klingon		-&gt; Spoken in Star Trek.  Proper term for the language
+		   is "tlhIngan Hol".  The Klingon homeworld is
+		   Qo'noS, in English it's Kronos.
+Kpele		-&gt; language spoken in Africa
+Lao		-&gt; language spoken in Laos and by the Laotian people
+		   living in northern Thailand
+Luo		-&gt; language spoken in Kenya
+Luxembourgish	-&gt; language spoken in Luxembourg and in the border areas
+		   in Belgium (Arlon), France (Thionville), and Germany.
+		   A mixture of French and German, with the emphasis on
+		   German.
+Maa		-&gt; language spoken in Africa
+Malayalam	-&gt; language spoken in the state of Kerala, India
+Maltese		-&gt; language spoken on Malta, a small independent island
+		   in the Mediterranean Sea south of Italy with around
+		   400,000 inhabitants.  Maltese is a mixture of Arabic
+		   and Italian mostly.
+Mandarin/	-&gt; The official language of China
+     Putunghua
+Marathi		-&gt; language spoken in the state of Maharastra, India
+		   (Bombay is the capital city)
+Marshallese	-&gt; language spoken on the Marshall Islands
+Mikmaq		-&gt; an Indigenous people of north-eastern North America
+Mohawk		-&gt; North American Indian tribe (New England, maybe one of
+		   the Seven Nations/Iriquois?)
+Mokilese	-&gt; language spoken on Mokil and Ponape (Pohnpei)
+Moroccan	-&gt; language spoken in Morocco, North Africa
+Morse Code	-&gt; A code using series of dots and dashes to represent
+		   letters, numbers, and other characters. Originally
+		   developed by Samuel Morse for use on the telegraph.
+Navaho		-&gt; North American Indian tribe (southwest)
+Ndebele		-&gt; language spoken in Zimbabwe
+Nyanja		-&gt; language spoken in Africa
+Oriya		-&gt; language spoken by people of Orissa, India
+Papiamento	-&gt; language spoken on the islands of Aruba, Curacao and Bonaire
+Portuguese	-&gt; The official and regular language spoken in Portugal,
+		   Brazil, Angola, Mozambique, Sao Tome and Principe,
+		   Cape Verde, Macau, Guinea-Bissau, Goa(India), and
+		   Galicia(Spain). Also spoken in but not the official
+		   language of East Timor, Damao(India), and Diu(India).
+		   It is the sixth most spoken language in the world.
+Pulaar		-&gt; dialect spoken in Senegal by the Fulani people
+Punjabi		-&gt; language spoken in the state of Punjab, northern India
+Quechua		-&gt; language spoken by Incan Indians (South America)
+Quenya		-&gt; Elvish language invented by J. R. R. Tolkien for his
+		   books.  Notably, "The Lord of the Rings".
+Rotuman		-&gt; language of a Polynesian people originating from the island
+		   of Rotuma, politically a part of Fiji, but quite different
+Saami		-&gt; Language of an indigenous people living in the
+		   Northern Scandinavian region of Lapland. Formerly
+		   known as Laplanders or Lapps.  They have several
+		   dialects, but this is the main one, Northern Saami.
+		   Their language is related to Finnish.
+Sesotho		-&gt; language spoken in South Africa
+   (Southern Sotho)
+Shona		-&gt; language spoken in Zimbabwe
+Sinhala		-&gt; Language of the non-Tamil (majority) people of
+		   Sri Lanka.  Also spoken in Ceylon.
+Sioux		-&gt; North American Indian tribe (upper midwest)
+Solresol	-&gt; An artificial musical language composed of sequences
+		   of notes on the diatonic scale (do, re, mi,...) sung
+		   by name for comprehensibility to the tone deaf.  The
+		   7 notes could also be mapped into colors so that
+		   writing would be a series of colored squares.
+South Africa	-&gt; There are several official languages listed in the
+		   Constitution of South Africa.  They are: Afrikanns,
+		   English, Ndebele(Sindebele, isiNdebele), saLeboa,
+		   Sesotho, Swazi(Siswathi, siSwati), Tsonga(Xitsonga),
+		   Setswana, Tshivenda, Venda(Tshivenda), Xhosa(isiXhosa),
+		   Zulu(isiZulu), Sepedi.
+Spanish		-&gt; Language spoken in Spain and Latin America(Mexico,
+		   Central and South America) except Brazil. It is the
+		   third most spoken language in the world.
+Swabian		-&gt; One of the German dialects. The literal word 'love'
+  (Schwa"bisch)    does not exist in this language.
+Swahili		-&gt; language spoken by some indigenous tribes of East
+		   Africa
+Tagalog		-&gt; dialect spoken in the Philippines
+Tamil		-&gt; language spoken in the state of Tamil Nadu, India,
+		   and in Sri Lanka(by a low percentage of the people),
+		   Singapore, Malaysia, Mauritus
+Telugu		-&gt; language spoken in the state of Andhra Pradesh, India
+		   (eleventh most spoken language in the world)
+Tetum		-&gt; language spoken in East Timor
+Timerio		-&gt; An artificial language using only numbers.  The idea
+		   was that each language has a different word for each
+		   concept, so if the concepts were numbered, automatic
+		   translation would be possible.
+Tswana		-&gt; language spoken in Africa
+Twi/Akan	-&gt; language spoken in Ghana.  See also Ashanti.
+Urdu		-&gt; language spoken in Pakistan and India
+Vai		-&gt; language spoken in Africa
+Vdrmldndska	-&gt; language spoken in the Vdrmland(Vaermland), Sweden,
+		   region north of Lake Vdnern.The real Vdrmldndska
+		   language is spoken to the northwest of Lake Vdnern
+		   up to the border of Norway and in northern Vdrmland
+		   around the town of Torsby by about 270,000 people,
+		   90,000 of which consider it to be their mother
+		   language.  It is a mixture of Swedish and Norwegian
+		   with some borrowed words from the many Valloonian
+		   people who went there to work as engineers in the
+		   mining industry during the 17th century.
+Volapu"k	-&gt; An 'artificial' language invented by August Scheyler,
+		   circa 1880.
+Vulcan		-&gt; Spoken in Star Trek by Mr. Spock and others from
+		   the planet Vulcan
+Walloon		-&gt; literally Welsh(not English Welsh), a little used
+		   French dialect with certain German influences
+		   spoken in the provinces of Luxembourg, Namur,
+		   Liege, Hainault, and Brabant-Walloon(Brabant of
+		   the Walloons), Belgium
+Wolof		-&gt; dialect spoken in Senegal by the Wolof people
+Yoruba		-&gt; language spoken in West Africa, specifically in Nigeria
+		   and bordering countries
+Yucatec Maya	-&gt; language spoken by indigenous people of the Yucatan
+		   peninsula in Mexico
+Zazi		-&gt; Kurdic dialect
+Zuni		-&gt; North American Indian tribe
+
+=======================================================
+(no guarantee for correctness though....)
+
+
+Something extra:
+
+
+Chinese:
+             ,g  Qb ,g                 ,g        Qg   Qg
+         oQQQQ"  QQ YQ     .odQQQQQQQQQP"       QQ'  QQ'
+           QQ    QQ "        QQ  QQ  QQ        QQ'  QQQQQQQQb
+       QQQQQQQQQQQQQQQQ   dQQQQQQQQQQQQQQb    QQQ  QQ  oo  QQ
+           QQ    QQ       QQ    QQ      QQ   Q'QQ Q'   QQ  P'
+           QQ,o  QQ o9,     QQQQQQQQQQQQ       QQ    Q QQ
+           QQP   QQ,QP         QQ              QQ   oQ QQ g
+         ,QQQ    QQQ'         QQQQQQQQb        QQ   Q' QQ `Q,
+        dQ'QQ   gQQ          QQ gg ,QQ'        QQ  ,P  QQ  Qb
+        Q' QQ oP QQ,        dQ' `gQQ'          QQ  Q   QQ  `P
+           QQ    `QQ g     oQ'  ggQQb,         QQ f    QQ
+          dQ'      `b'    oQ  oP'   "YQao      QQ     dQ'      Dave Chin
+
+
+
+
+Hindi: (Om Shanti, Symbol of Peace and Love and Oneness)
+
+             **                             **
+           *******          *******     *   **   *
+         ***********      ***********   ***    ***
+       ****     *****   *****    *****   ********
+      *****     *****   ****      *****    ****
+       *****    *****             *****               Ashesh Majumdar
+        ***     *****            *****    ***
+         *      *****        *******    ********
+                *****        ********************  *
+                *****        ***********     *****  **
+                *****            *****      *****    ***
+                 *****            *****    *****     ****
+                  *****           *****    *****     *****
+                    *****       *****      ***************
+                      *************          ***********
+                         ********              *****
